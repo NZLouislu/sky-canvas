@@ -1,3 +1,42 @@
+# Sky Canvas - NZLouis Personal Website
+
+This is a personal website project for NZLouis, showcasing background, website style, and related page displays with a sky-themed visual experience.
+
+## Live Demo
+
+You can view the live website at: [sky.nzlouis.com](https://sky.nzlouis.com)
+
+## Project Overview
+
+Sky Canvas is a visually-driven Next.js website that presents NZLouis's personal background and creative vision through immersive sky-themed pages. The site features:
+
+- A calming blue sky aesthetic throughout
+- Dynamic cloud and sun visual elements
+- Responsive design that works across all devices
+- Artistic presentation of personal and professional background
+
+## Website Style
+
+The website embraces a clean, minimalist design philosophy with a focus on:
+
+- **Sky-themed visuals**: Each page features different aspects of sky imagery including clear blue skies, clouds, and sun elements
+- **Immersive experience**: Visitors are greeted with visually appealing backgrounds that create a peaceful atmosphere
+- **Storytelling approach**: Content is presented in a narrative format, taking visitors on a journey through NZLouis's background and interests
+
+## Key Pages
+
+- **Home**: Introduction to NZLouis and the website concept
+- **Stories in the Sky**: Narrative content presented against beautiful sky backdrops
+- **Sun & Clouds**: Visual showcase of dynamic weather elements
+
+## Technical Stack
+
+- [Next.js 15](https://nextjs.org/)
+- React 19
+- TypeScript
+- Tailwind CSS
+- Lucide React Icons
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
