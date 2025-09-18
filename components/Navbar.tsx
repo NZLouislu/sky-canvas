@@ -11,6 +11,7 @@ export default function Navbar() {
     { label: "🏠 Home", href: "/home" },
     { label: "✨ Sun and clouds", href: "/sun-clouds" },
     { label: "⭐ Stories in the Sky", href: "/stories-in-the-sky" },
+    { label: "🌱 Touch Grass", href: "/touch-grass" },
   ];
 
   return (
