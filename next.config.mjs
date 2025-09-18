@@ -2,7 +2,7 @@ import path from "path";
 import fs from "fs";
 
 const nextConfig = {
-  distDir: "dist",
+  // distDir: "dist", // 注释掉自定义输出目录，使用默认.next目录以确保Vercel兼容性
   productionBrowserSourceMaps: process.env.NODE_ENV === "production",
   reactStrictMode: false,
   typescript: {
