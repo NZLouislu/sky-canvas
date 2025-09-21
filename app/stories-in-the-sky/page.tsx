@@ -664,7 +664,7 @@ const StoriesInTheSky = () => {
   };
 
   return (
-    <div className="relative w-full h-screen bg-gradient-to-b from-gray-950 via-indigo-950 to-black overflow-hidden">
+    <div className="relative w-full -mt-2 h-screen bg-gradient-to-b from-gray-950 via-indigo-950 to-black overflow-hidden">
       {/* Animated background stars */}
       {backgroundStars.map((star, i) => (
         <div
@@ -801,7 +801,6 @@ const StoriesInTheSky = () => {
           </p>
         </div>
       )}
-
     </div>
   );
 };

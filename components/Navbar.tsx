@@ -9,11 +9,13 @@ export default function Navbar() {
 
   const items = [
     { label: "🏠 Home", href: "/home" },
-    { label: "✨ Sun and clouds", href: "/sun-clouds" },
+    { label: "🌆 Day & Night", href: "/day-night" },
+    // { label: "✨ Sun and clouds", href: "/sun-clouds" },
     { label: "⭐ Stories in the Sky", href: "/stories-in-the-sky" },
-    { label: "🌱 Touch Grass", href: "/touch-grass" },
+    // { label: "🌱 Touch Grass", href: "/touch-grass" },
     { label: "🌙 Moon Night", href: "/moon-night" },
     { label: "☀️ Sun Grass", href: "/sun-grass" },
+    { label: "🐦 Sky Flight", href: "/sky-background" },
   ];
 
   return (
